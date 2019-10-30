@@ -1,6 +1,7 @@
 # shisanshui
 ## 徽章
 ![](https://img.shields.io/badge/python-3.8-green)<br>
+![](https://img.shields.io/badge/shisanshui-v1.0.0-brightgreen)<br>
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/cc05aeb2eb744f218b98239bc037f672)](https://www.codacy.com/manual/WithYou617/shisanshui?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=WithYou617/shisanshui&amp;utm_campaign=Badge_Grade)
 ## 编译+运行环境
     运行环境：windows + 工具版本：python3.8 + 运行前需先下载pyqt5、requests第三方库，可使用pip对pyqt5、requests库进行下载安装
